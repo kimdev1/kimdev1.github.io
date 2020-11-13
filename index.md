@@ -1,1 +1,4 @@
-This is main homepage!!
+---
+layout: home
+author_profile: true
+---
