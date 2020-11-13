@@ -50,12 +50,12 @@ career-profile:
     summary: |
       DRM(digital rights management) Player Platform that can use the service use after installing an open OS (Operating System) on a PC.
 education:
-    - degree: - <a href="http://yoondisk.co.kr/" target="_blank">YOONDISK</a>
+    - degree: <a href="http://yoondisk.co.kr/" target="_blank">- YOONDISK</a>
       university: 
       time: 
       details: 
       
-    - degree: - <a herf="https://github.com/yoondisk/MediaSAFE_HD_Basic" target="_blank">MediaSAFE_HD</a>
+    - degree: - <a herf="https://github.com/yoondisk/MediaSAFE_HD_Basic" target="_blank">- MediaSAFE_HD</a>
       university: 
       time: 
       details:
