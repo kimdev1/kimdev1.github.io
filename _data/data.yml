@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: dev@yoondisk.co.kr
     phone: 02 2624 1330
-    website: kimdev1.github.io #do not add http://
+    website: yoondisk.co.kr #do not add http://
     linkedin: 
     github: Yoondisk
     telegram: # add your nickname without '@' sign
@@ -49,16 +49,16 @@ career-profile:
     title: Introduce
     summary: |
       DRM(digital rights management) Player Platform that can use the service use after installing an open OS (Operating System) on a PC.
-education:
-    - degree: <a href="http://yoondisk.co.kr/" target="_blank">- YOONDISK</a>
-      university: 
-      time: 
-      details: 
-      
+education:         
     - degree: <a href="https://github.com/yoondisk/MediaSAFE_HD_Basic" target="_blank">- MediaSAFE_HD</a>
       university: 
       time: 
       details:
+      
+      - degree: <a href="https://github.com/yoondisk/MediaSAFE_HD_Basic/blob/master/CONTRIBUTING.md" target="_blank">- CONTRIBUTING</a>
+      university: 
+      time: 
+      details: 
 
 experiences:
     - role: Developer
