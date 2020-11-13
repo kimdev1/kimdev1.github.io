@@ -63,54 +63,31 @@ experiences:
         - 개방형OS에 이용 가능한 SEED 128,256bit 암호화 및 복호화 기법 분석
         - 개방형OS에서 사용 가능한 영상 스트리밍 기법 분석
         - 개방형OS에서 동영상 콘텐츠 저작권 관리툴 적용(웹 기반)
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
 projects:
-    title: Projects
+    title: Effects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      ◦ 개방형OS PC에 설치형 DRM 플레이어를 개발 <br>
+      ◦ 개방형OS DRM 플레이어 세부 기능
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: HTTP, RTSP 전송 프로토콜 지원 기능
+        link: 
+        tagline:
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 생방송 영상 중계 URL 암호화 기능
+        link: 
+        tagline:
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 배속기능 및 임의 위치 재생 기능
+        link:
+        tagline: 
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 콘텐츠 서버와 네트워크 패킹 암호화 통신 기능
+        link: 
+        tagline: 
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 해상도 변경 기능 및 볼륨 조절 기능
+        link: 
+        tagline:
 
 publications:
     title: Publications
