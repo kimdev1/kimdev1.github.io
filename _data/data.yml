@@ -59,15 +59,14 @@ experiences:
       time: 2020
       company: Yoondisk
       details: |
-        - 개방형OS에 사용된 커널 버전(데미안 10.X) 분석
-        - 개방형OS에 이용 가능한 SEED 128,256bit 암호화 및 복호화 기법 분석
-        - 개방형OS에서 사용 가능한 영상 스트리밍 기법 분석
-        - 개방형OS에서 동영상 콘텐츠 저작권 관리툴 적용(웹 기반)
+        개방형OS에 사용된 커널 버전(데미안 10.X) 분석 <br>
+        개방형OS에 이용 가능한 SEED 128,256bit 암호화 및 복호화 기법 분석 <br>
+        개방형OS에서 사용 가능한 영상 스트리밍 기법 분석 <br>
+        개방형OS에서 동영상 콘텐츠 저작권 관리툴 적용(웹 기반) <br>
 projects:
-    title: Effects
+    title: functions
     intro: >
-      ◦ 개방형OS PC에 설치형 DRM 플레이어를 개발 <br>
-      ◦ 개방형OS DRM 플레이어 세부 기능
+      
     assignments:
       - title: HTTP, RTSP 전송 프로토콜 지원 기능
         link: 
@@ -90,48 +89,10 @@ projects:
         tagline:
 
 publications:
-    title: Publications
+    title: Effect
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      개방형OS를 이용하는 PC및 클라우드 환경에서, 생방송, 영상 콘텐츠 서비스시에 콘텐츠의
+      안전한 보호와 불법적 유출을 방지.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
