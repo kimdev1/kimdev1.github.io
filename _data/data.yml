@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: true # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: MediaSAFE_HD
@@ -55,21 +55,14 @@ education:
       time: 
       details: 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Developer
+      time: 2020
+      company: Yoondisk
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - 개방형OS에 사용된 커널 버전(데미안 10.X) 분석
+        - 개방형OS에 이용 가능한 SEED 128,256bit 암호화 및 복호화 기법 분석
+        - 개방형OS에서 사용 가능한 영상 스트리밍 기법 분석
+        - 개방형OS에서 동영상 콘텐츠 저작권 관리툴 적용(웹 기반)
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
