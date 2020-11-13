@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-logo                    : "SecureGate_BI.png"
-github_username         :  hanssak
-title                   : "OpenNetLink"
+logo                    : 
+github_username         :  kimdev1
+title                   : "test"
 baseurl                 : ""              # the subpath of your site, e.g. "/blog"
-url                     : "https://hanssak.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url                     : "https://kimdev1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 
@@ -42,7 +42,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 #### Footer content
-footer_content: "Copyright ⓒ HANSSAK Corp. All rights reserved."
+footer_content: "Copyright ⓒ All rights reserved."
 
 
 # Build settings
