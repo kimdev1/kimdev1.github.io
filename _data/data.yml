@@ -66,33 +66,37 @@ experiences:
 projects:
     title: functions
     intro: >
+        HTTP, RTSP transmission protocol support function <br>
+        Live broadcast video relay URL encryption function <br>
+        Content server and network packing encryption communication function <br>
+        Resolution change function and volume control function
       
     assignments:
-      - title: HTTP, RTSP transmission protocol support function
+      - title:
         link: 
         tagline:
 
-      - title: Live broadcast video relay URL encryption function
+      - title: 
         link: 
         tagline:
 
-      - title: Double speed function Random position playback function
+      - title: 
         link:
         tagline: 
 
-      - title: Content server and network packing encryption communication function
+      - title: 
         link: 
         tagline: 
 
-      - title: Resolution change function and volume control function
+      - title: 
         link: 
         tagline:
 
 publications:
     title: Effect
     intro: |
-      개방형OS를 이용하는 PC및 클라우드 환경에서, 생방송, 영상 콘텐츠 서비스시에 콘텐츠의
-      안전한 보호와 불법적 유출을 방지.
+      In PC and cloud environment using open OS, contents can be
+      Safe protection and prevention of illegal leakage.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
