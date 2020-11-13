@@ -55,36 +55,37 @@ education:
       time: 
       details: 
 experiences:
+      title: design
     - role: Developer
       time: 2020
       company: Yoondisk
       details: |
-        개방형OS에 사용된 커널 버전(데미안 10.X) 분석 <br>
-        개방형OS에 이용 가능한 SEED 128,256bit 암호화 및 복호화 기법 분석 <br>
-        개방형OS에서 사용 가능한 영상 스트리밍 기법 분석 <br>
-        개방형OS에서 동영상 콘텐츠 저작권 관리툴 적용(웹 기반) <br>
+        Analysis of kernel version (Damian 10.X) used for open OS <br>
+        Analysis of SEED 128, 256bit encryption and decryption techniques available for open OS <br>
+        Analysis of video streaming techniques available in open OS <br>
+        Application of video content copyright management tool in open OS (web-based) <br>
 projects:
     title: functions
     intro: >
       
     assignments:
-      - title: HTTP, RTSP 전송 프로토콜 지원 기능
+      - title: HTTP, RTSP transmission protocol support function
         link: 
         tagline:
 
-      - title: 생방송 영상 중계 URL 암호화 기능
+      - title: Live broadcast video relay URL encryption function
         link: 
         tagline:
 
-      - title: 배속기능 및 임의 위치 재생 기능
+      - title: Double speed function Random position playback function
         link:
         tagline: 
 
-      - title: 콘텐츠 서버와 네트워크 패킹 암호화 통신 기능
+      - title: Content server and network packing encryption communication function
         link: 
         tagline: 
 
-      - title: 해상도 변경 기능 및 볼륨 조절 기능
+      - title: Resolution change function and volume control function
         link: 
         tagline:
 
